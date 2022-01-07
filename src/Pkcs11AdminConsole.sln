@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pkcs11AdminConsole", "Pkcs11AdminConsole\Pkcs11AdminConsole.csproj", "{90886E91-D1F3-4240-9412-66C29002CC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pkcs11AdminService", "Pkcs11AdminService\Pkcs11AdminService.csproj", "{81C96104-C498-4ADD-ADE7-EF9A4228D489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90886E91-D1F3-4240-9412-66C29002CC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90886E91-D1F3-4240-9412-66C29002CC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90886E91-D1F3-4240-9412-66C29002CC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90886E91-D1F3-4240-9412-66C29002CC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C96104-C498-4ADD-ADE7-EF9A4228D489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C96104-C498-4ADD-ADE7-EF9A4228D489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C96104-C498-4ADD-ADE7-EF9A4228D489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C96104-C498-4ADD-ADE7-EF9A4228D489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11FB33AD-1EF6-47C5-916D-736DB3BFB62B}
+	EndGlobalSection
+EndGlobal
